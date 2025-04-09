@@ -1,2 +1,3 @@
-# Java_codes
-Basic collection of Java codes with description in Russian
+# Коды на Джава
+
+Сборник решений разных задач на языке Джава
